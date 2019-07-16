@@ -1,6 +1,6 @@
 check50:
   checks:
-    Teste 1:
+    Teste1:
       - run: python3 teste.py
         stdout: Ola, Mundo!
         exit: 0
